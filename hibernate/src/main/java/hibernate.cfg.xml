@@ -13,5 +13,7 @@
 		<property name="show_sql">true</property>
 		<mapping class="com.yash.hibernate.Student" />
 		<mapping class="com.yash.hibernate.Address" />
+		<mapping class="com.yash.map.Question" />
+		<mapping class="com.yash.map.Answer" />
 	</session-factory>
 </hibernate-configuration>
